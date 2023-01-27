@@ -1,0 +1,51 @@
+* {
+    margin: 0px;  
+    padding: 0px; 
+   }
+
+.header {
+    height: 5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2em;
+    font-size: 2em;
+    background-image: url("https://i.ibb.co/PWgDZPg/gun.png");
+    background-size: 2050px;
+    background-position: center;
+
+
+}
+
+.header h1{
+    margin: 0px;
+}
+
+.descripcion {
+    width: 80%;
+    margin: auto;
+}
+
+.descripcion td{
+width: 50%;
+padding: 2em;
+}
+
+.descripcion img{
+    width: 100%;
+    border: solid 1px;
+}
+
+.descripcion p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.footer{
+height: 3em;
+line-height: 3em;
+background-color: rgb(207, 207, 207);
+text-align: center;
+font-weight: 900;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+background-color: rgb(228, 228, 228);
+}

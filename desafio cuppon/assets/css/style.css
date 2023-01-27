@@ -1,0 +1,16 @@
+#navbarNav {
+    justify-content: right;
+  }
+  
+  .card-body,
+  .card-title,
+  .form-control,
+  .button {
+    font-weight: lighter;
+    font-size: 20px;
+  }
+  .text-secondary {
+    color: #28a745;
+    font-size: 15px;
+  }
+  
